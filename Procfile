@@ -1,0 +1,1 @@
+db: node . --db "mongodb+srv://makemeow:sazumi2005@makemeow.t3zlnho.mongodb.net/?retryWrites=true&w=majority" --autocleartmp --restrict
